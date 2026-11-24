@@ -33,3 +33,8 @@ En deportes de combate como el **Wushu Sanda**, equilibrar la intensidad del ent
    * **Importancia de variables:** En la evaluación inicial, `Sleep_Quality` concentró el mayor peso relativo (~53 %), seguida de `Training_HR` (~28 %) y `Fatigue_Index` (~18 %).
    * **Evaluación:** El modelo base obtuvo una precisión global (*Accuracy*) de **33.50 %** sobre las tres clases balanceadas (cercano al baseline aleatorio de 33.33 %), lo que motivó el análisis comparativo por clase (`groupby`) y la evaluación con el conjunto completo de variables numéricas.
 └── README.md                     # Documentación técnica del proyecto
+
+## Enlaces del Proyecto
+- **Dataset en Kaggle:** https://www.kaggle.com/datasets/zara2099/training-load-and-performance-dataset
+- **Archivos del Proyecto en Drive:** https://drive.google.com/drive/folders/11R4BSgMcCEO9d6A7icVNWhtmvCtSkr-7?usp=sharing
+- **Cuaderno en Google Colab (`src.ipynb`):** [src.ipynb](./src.ipynb)
